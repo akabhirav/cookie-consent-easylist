@@ -12,6 +12,7 @@ I have no intention of helping anyone. Try at your own risk. If it works for you
 ```
 https://raw.githubusercontent.com/akabhirav/cookie-consent-easylist/main/cookie-consent-blocks.txt 
 ```
+4. Click `Apply Changes` near the top of the page
 
 ## Contributing
 If you find this list helpful and would like to contribute raise a PR
